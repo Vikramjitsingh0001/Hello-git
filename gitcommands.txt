@@ -1,0 +1,10 @@
+1: git init - This command is  used for initialize.
+2: git status - it is used to checks the status of files. It tells how many files are present in the repositories.
+3: git config --global user.name "Vikramjitsingh0001" - It introduce our name to git.
+4: git config --global user.email "Vikramjitsinghkarwal@gmail.com" - This command is introduce our email to git.
+5: git add name -This Command is use for add particular reportory.
+6: git add . This command is use to add all reportory.
+7: git commit -m "message"- This command is use for saves and add message to the file.
+8: git remote add origin https://github.com/useramandeep/Hello-git.git data store in this link
+9: git push -u origin master This command is used for push the data file to origin link
+
