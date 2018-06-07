@@ -5,6 +5,6 @@
 5: git add name -This Command is use for add particular reportory.
 6: git add . This command is use to add all reportory.
 7: git commit -m "message"- This command is use for saves and add message to the file.
-8: git remote add origin https://github.com/useramandeep/Hello-git.git data store in this link
+8:git remote add origin https://github.com/Vikramjitsingh0001/Hello-git.git data store in this link
 9: git push -u origin master This command is used for push the data file to origin link
 
